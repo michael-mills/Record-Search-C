@@ -1,7 +1,7 @@
 # Record Search in C
 
 
-This Repository contains a simple simple database record searcher implemented in C with colorful text. The program takes input from the command line, and users can choose how to sort the data, search for any values, add records, and delete records.
+This Repository contains a simple database record searcher implemented in C with colorful text. The program takes input from the command line, and users can choose how to sort the data, search for any values, add records, and delete records.
 
 ## Features
 * command-line interface
